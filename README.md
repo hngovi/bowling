@@ -1,1 +1,1 @@
-# bowling - interessting excercise
+# bowling - interesting excercise
